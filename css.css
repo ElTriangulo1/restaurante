@@ -1,0 +1,127 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #fbff8d; /* Cambia #ffffff por el color que desees */
+}
+
+.logo-container {
+    margin-bottom: 20px;
+}
+
+.logo-container h1 {
+    margin: 0;
+    font-size: 75px; /* Ajusta el tamaño de la fuente del título según sea necesario */
+}
+
+.logo-container img {
+    max-width: 250px; /* Ajusta el tamaño del logo del restaurante según sea necesario */
+    height: auto;
+    border-radius: 10px; /* Ajusta el valor de border-radius según prefieras */
+}
+
+.whatsapp-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.whatsapp-link {
+    margin-right: 10px;
+}
+
+.whatsapp-container img {
+    max-width: 30px; /* Ajusta el tamaño según sea necesario */
+    height: auto;
+    margin-right: 10px;
+    border-radius: 10px; /* Ajusta el valor de border-radius según prefieras */
+}
+
+.whatsapp-number {
+    color: #25d366; /* Color verde de WhatsApp, puedes cambiarlo según tus preferencias */
+    margin: 0;
+    font-size: 1.2em; /* Ajusta el tamaño del texto según sea necesario */
+}
+.bebida-container {
+    text-align: center;
+}
+
+.titulo-refrescos {
+    margin-top: 20px;
+    font-size: 70px; /* Ajusta el tamaño del texto según sea necesario */
+}
+
+.bebida {
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.bebida img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px; /* Añade espacio entre la imagen y el texto del plato */
+}
+
+.bebida h2{
+    font-size: 1.8em; /* Ajusta el tamaño de la fuente del título según sea necesario */
+}
+.bebida p {
+    margin: 0;
+    font-size: 1.5em; /* Ajusta el tamaño de la fuente del párrafo según sea necesario */
+}
+
+.limonadafrozen {
+    /* Agrega reglas específicas para el contenedor de Limonada Frozen si es necesario */
+}
+
+.limonadafrozen .bebida-imagen {
+    max-width: 250px; /* Ajusta el ancho máximo de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción original de la imagen */
+    border-radius: 12px; /* Ajusta el radio de borde según sea necesario */
+}
+
+.limonadafrozen h2 {
+    font-size: 1.8em; /* Ajusta el tamaño de la fuente del título según sea necesario */
+}
+
+.limonadafrozen p {
+    font-size: 1.5em; /* Ajusta el tamaño de la fuente del párrafo según sea necesario */
+}
+
+.chichamorada {
+    /* Agrega reglas específicas para el contenedor de Limonada Frozen si es necesario */
+}
+
+.chichamorada .bebida-imagen {
+    max-width: 250px; /* Ajusta el ancho máximo de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción original de la imagen */
+    border-radius: 12px; /* Ajusta el radio de borde según sea necesario */
+}
+
+.chichamorada h2 {
+    font-size: 1.8em; /* Ajusta el tamaño de la fuente del título según sea necesario */
+}
+
+.chichamorada p {
+    font-size: 1.5em; /* Ajusta el tamaño de la fuente del párrafo según sea necesario */
+}
+
+
+.Maracuya .bebida-imagen {
+    max-width: 250px; /* Ajusta el ancho máximo de la imagen según sea necesario */
+    height: auto; /* Mantiene la proporción original de la imagen */
+    border-radius: 12px; /* Ajusta el radio de borde según sea necesario */
+}
+
+.Maracuya h2 {
+    font-size: 1.8em; /* Ajusta el tamaño de la fuente del título según sea necesario */
+}
+
+.Maracuya p {
+    font-size: 1.5em; /* Ajusta el tamaño de la fuente del párrafo según sea necesario */
+}
